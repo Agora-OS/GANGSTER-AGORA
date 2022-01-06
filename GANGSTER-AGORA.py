@@ -1124,11 +1124,11 @@ async def _(e):
         yukki = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             bc = yukki[0]
-            text = "ಸೇರಿಕೊಳ್ಳು...."
+            text = "joining...."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await e.client(ImportChatInviteRequest(bc))
-                await event.edit("ಕನ್ನಡ ಹೋರಾಟಗಾರರು ಸಿದ್ಧರಾಗಿದ್ದಾರೆ")
+                await event.edit("BATAO BHAI KISKE GAAND PADHNA HAI")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1174,11 +1174,11 @@ async def _(e):
         if len(e.text) > 7:
             bc = yukki[0]
             bc = int(bc)
-            text = "ನಿರ್ಗಮಿಸುವ ಕನ್ನಡ ಹೋರಾಟಗಾರರು....."
+            text = "leaving....."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(bc))
-                await event.edit("ಕನ್ನಡ ಹೋರಾಟಗಾರರು ಯಶಸ್ವಿಯಾಗಿ ನಿರ್ಗಮಿಸಿದರು")
+                await event.edit("BHAI YE GROUP EXIT KIA MAI")
             except Exception as e:
                 await event.edit(str(e))   
         else:
@@ -1559,7 +1559,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ದಾಳಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+            text = "GAAND CHODNA CHALLU"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1569,7 +1569,7 @@ async def _(e):
             qeue = que.get(g)
             appendable = [g]
             qeue.append(appendable)
-            text = "ದಾಳಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+            text = "RUKO REDBUL PIKE ATA HU ENERGY KELIYE"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1624,7 +1624,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "ದಾಳಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+            text = "KITNA CHODU YAAR ISKA GAAND PADGAYA HAI ABI"
             await e.reply(text, parse_mode=None, link_preview=None )
         elif e.reply_to_msg_id:             
             a = await e.get_reply_message()
@@ -1635,7 +1635,7 @@ async def _(e):
                 queue.pop(0)
             except Exception as f:
                 pass
-            text = "ದಾಳಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+            text = "ABI MUH MAI LEGA KYA BE BC"
             await e.reply(text, parse_mode=None, link_preview=None )
         else:
             await e.reply(usage, parse_mode=None, link_preview=None )
@@ -1756,7 +1756,7 @@ async def get_users(event):
             error = str(e)
             f = f + 1
     return await event.edit(
-        f"**ಟರ್ಮಿನಲ್ ಮುಗಿದಿದೆ** \n\n•ಯಶಸ್ವಿಯಾಗಿ ಆಹ್ವಾನಿಸಲಾಗಿದೆ`{s}` people \n• failed to invite `{f}` people"
+        f"**terminal completed** \n\n•successfull invited`{s}` people \n• failed to invite `{f}` people"
     )
 
 
@@ -1805,7 +1805,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f" ಹೆಮ್ಮೆಯ ಕನ್ನಡಿಗ\n`{ms}` ms{ALIVE_NAME} ")
+        await event.edit(f" GANGSTER AGORA\n`{ms}` ms{PROFESSOR} ")
 
 
 
@@ -1844,7 +1844,7 @@ async def ping(e):
 @boy.on(events.NewMessage(incoming=True, pattern=r"\*restart"))
 async def restart(e):
     if e.sender_id in SMEX_USERS:
-        text = "ಮರುಪ್ರಾರಂಭಿಸಲಾಗಿದೆ\n\nPlease wait till it reboots..."
+        text = "PIRSE_CHALU\n\nPlease wait till it reboots..."
         await e.reply(text, parse_mode=None, link_preview=None )
         try:
             await idk.disconnect()
@@ -2016,12 +2016,12 @@ async def help(e):
         
 text = """
 
-💥💥 𝗠𝗢𝗡𝗘𝗬 𝗛𝗘𝗜𝗦𝗧 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 💥💥💥
-💥𝗕𝗬 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥 𝗔𝗚𝗢𝗥𝗔 💥"""
+💥💥 𝙶𝙰𝙽𝙶𝚂𝚃𝙴𝚁 𝙰𝙶𝙾𝚁𝙰 𝙺𝙰 𝙱𝙾𝚃 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙳𝙴𝙿𝙻𝙾𝚈 𝙷𝙾𝙶𝙰𝚈𝙰 𝙷𝙰𝙸💥💥💥
+💥𝙾𝚆𝙽𝙴𝚁 𝙱𝚈 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁 𝙰𝙶𝙾𝚁𝙰💥"""
 
 print(text)
 print("")
-print("𝗠𝗛 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧 𝗜𝗦 𝗥𝗘𝗔𝗗𝗬 ")
+print("𝙶𝙰𝙽𝙶𝚂𝚃𝙴𝚁 𝙰𝙶𝙾𝚁𝙰 𝚂𝚃𝙰𝚁𝚃𝙴𝙳")
 if len(sys.argv) not in (1, 3, 4):
     try:
         idk.disconnect()
