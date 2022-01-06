@@ -1,10 +1,10 @@
-# 𝙈𝙃-𝙎𝙋𝘼𝙈-𝘽𝙊𝙏
+# 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥 𝗔𝗚𝗢𝗥𝗔
 
-#### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 30 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
+#### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 𝟯𝟬 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝐌𝐎𝐍𝐄𝐘 𝐇𝐄𝐈𝐒𝐓 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓](t.me/Professor_agora)
+## [𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥_𝗔𝗚𝗢𝗥𝗔](t.me/Professor_agora)
 
 <p align="center">
   <img src="https://telegra.ph/file/ce8b8e62cd807f75a1653.jpg">
@@ -14,7 +14,7 @@
 
 ## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/MH-Spam-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agora-OS/GANGSTER-AGORA)
 
 # 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙾𝙵 𝙼𝙷 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃
 
@@ -29,7 +29,7 @@
 
 
 ## SUPPORT GROUP
-   - 𝗝𝗢𝗜𝗡 [𝙼𝙷𝚄𝙱 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/MH_USERBOT) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
+   - 𝗝𝗢𝗜𝗡 [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/AGORA_SPAM_OFFICIAL) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
 ## Credits
    - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝚂𝚄𝙹𝙰𝙻](https://t.me/toxic_than_toxiest)
