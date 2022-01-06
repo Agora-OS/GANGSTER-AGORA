@@ -34,5 +34,5 @@
    - 𝗝𝗢𝗜𝗡 [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙲𝙷𝙰𝚃](https://t.me/AGORA_SPAM_OFFICIAL) 𝗙𝗢𝗥 𝗔𝗦𝗦𝗜𝗦𝗧𝗔𝗡𝗖𝗘.
 
 ## Credits
-   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝚂𝚄𝙹𝙰𝙻](https://t.me/toxic_than_toxiest)
+   - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙳𝙷𝚁𝚄𝚅𝙰](https://t.me/KANNADA_CHATING_GROUP_KARNATAK)
    - 𝚃𝚑𝚊𝚗𝚔𝚜 𝚝𝚘 [𝙰𝙶𝙾𝚁𝙰](https://t.me/agora_professor)
